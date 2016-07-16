@@ -1,0 +1,2 @@
+# Packet-Sniffer
+The main aim of this project is to develop a packet sniffer which can be used to intercept and log traffic passing over a digital network or a part of a network. This tool would inject an IP packet into the available network interface and wait for the reply from the intermediate routers and the destination IP, giving information about the network setup and the firewall configuration on each intermediate node.
